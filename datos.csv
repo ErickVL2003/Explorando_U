@@ -1,0 +1,201 @@
+﻿ID;CARRERA;SEMESTRE;LUGAR_DE_ESTUDIO;HORAS_DE_ESTUDIO;MOTIVO_DE_USO;PREFERENCIA_DE_USO;FRECUENCIA_DE_USO;PUNTUACION;AREA_DE_ESTUDIO;MEJORAS_SUGERIDAS;NUEVOS_ESPACIOS;;GENERO
+1;Ingeniería en sistemas;4;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;Pareja;2-3 veces por semana;4;Ingeniería y tecnología;Ventilación;Sí, cubículos personales;;Mujer
+2;Psicología;1;Biblioteca;2;Mesas grandes diponibles;Solo(a);2-3 veces por semana;4;Humanidades;Enchufes;Sí, cubículos personales;;Mujer
+3;Ingeniería civil;5;Salón Vacío;4;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+4;Ingeniería en sistemas;5;Salón Vacío;2;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;5;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Mujer
+5;Ingeniería en sistemas;2;Salón Vacío;4;Ambiente tranquilo y silencioso;Pareja;Varias veces a la semana;5;Ingeniería y tecnología;Enchufes;Sí, cubículos personales;;Hombre
+6;Ingeniería en sistemas;2;Salas con acceso a computadores;1;Disponibilidad de computadores;Pareja;2-3 veces por semana;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+7;Ingeniería en sistemas;3;Salón Vacío;2;Ambiente tranquilo y silencioso;Solo(a);Diario;5;Ingeniería y tecnología;Sillas y mesas más cómodas;No;;Hombre
+8;Ingeniería agroindustrial;2;Salón Vacío;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+9;Ingeniería en sistemas;3;Salas con acceso a computadores;5;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+10;Biología marina;2;Salón Vacío;2;Costumbre, hábito personal;Pareja;2-3 veces por semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+11;Biología marina;2;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;4;Ciencias naturales y exactas;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+12;Enfermeria;4;Biblioteca;4;Disponibilidad de computadores;Pareja;2-3 veces por semana;5;Salud y ciencias médicas;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+13;Biología marina;2;Biblioteca;3;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+14;Gastronomia;2;Salón Vacío;1;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+15;Gastronomia;2;Salón Vacío;2;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+16;Gastronomia;2;Salas con acceso a computadores;2;Disponibilidad de computadores;Solo(a);2-3 veces por semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+17;Gastronomia;2;Salón Vacío;1;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Economía y administración;Enchufes;Sí, espacios grupales;;Hombre
+18;Gastronomia;2;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;En grupo;2-3 veces por semana;3;Economía y administración;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+19;Ingeniería en sistemas;3;Salas con acceso a computadores;1;Disponibilidad de acceso a internet rápido;Solo(a);2-3 veces por semana;3;Ingeniería y tecnología;Enchufes;Sí, cubículos personales;;Hombre
+20;Psicología;1;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;4;Ciencias sociales;Enchufes;Sí, espacios grupales;;Mujer
+21;Psicología;1;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Diario;2;Matemáticas y estadística;Decoración y ambiente;Sí, cubículos personales;;Mujer
+22;Ingeniería en sistemas;4;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Diario;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+23;Derecho;1;Cafetería;2;Disponibilidad de espacio luego de terminar clases;En grupo;Diario;5;Economía y administración;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+24;Ingeniería en sistemas;4;Salón Vacío;3;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;4;Matemáticas y estadística;Ilumiación;Sí, espacios grupales;;Mujer
+25;Ingeniería civil;5;Cafetería;3;Mesas grandes diponibles;En grupo;2-3 veces por semana;4;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Mujer
+26;Ingeniería civil;5;Salón Vacío;2;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;3;Ingeniería y tecnología;Reducción de ruido;Sí, espacios grupales;;Mujer
+27;Odontología;7;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;3;Humanidades;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+28;Odontología;6;Salón Vacío;2;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;4;Humanidades;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+29;Odontología;6;Biblioteca;1;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;3;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+30;Ingeniería civil;3;Salón Vacío;6;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;5;Matemáticas y estadística;Reducción de ruido;Sí, espacios grupales;;Mujer
+31;Ingeniería en sistemas;1;Salón Vacío;4;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+32;Ingeniería en sistemas;2;Salas con acceso a computadores;2;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+33;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;3;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+34;Ingeniería en sistemas;5;Salas con acceso a computadores;4;Disponibilidad de computadores;En grupo;2-3 veces por semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+35;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+36;Ingeniería en sistemas;6;Salas con acceso a computadores;3;Disponibilidad de acceso a internet rápido;En grupo;2-3 veces por semana;3;Ingeniería y tecnología;Sillas y mesas más cómodas;No;;Hombre
+37;Ingeniería en sistemas;1;Salas con acceso a computadores;6;Disponibilidad de computadores;Solo(a);2-3 veces por semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+38;Ingeniería en sistemas;5;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;5;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Hombre
+39;Ingeniería en sistemas;4;Salón Vacío;3;Disponibilidad de acceso a internet rápido;En grupo;Diario;4;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+40;Ingeniería en sistemas;3;Casa;2;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Ingeniería y tecnología;Enchufes;Sí, cubículos personales;;Mujer
+41;Ingeniería en sistemas;4;Salón Vacío;2;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+42;Medicina;6;Escaleras;2;Costumbre, hábito personal;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+43;Medicina;6;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;4;Salud y ciencias médicas;Reducción de ruido;Sí, cubículos personales;;Hombre
+44;Medicina;6;Salón Vacío;1;Costumbre, hábito personal;Solo(a);Ocasionalmente;3;Salud y ciencias médicas;Ventilación;Sí, espacios grupales;;Hombre
+45;Medicina;5;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;4;Salud y ciencias médicas;Reducción de ruido;Sí, cubículos personales;;Mujer
+46;Medicina;5;Biblioteca;2;Acceso a libros;Solo(a);Ocasionalmente;4;Salud y ciencias médicas;Enchufes;Sí, cubículos personales;;Hombre
+47;Medicina;5;Salón Vacío;1;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+48;Ingeniería en sistemas;5;Salón Vacío;4;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;4;Humanidades;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+49;Ingeniería industrial;4;Biblioteca;2;Disponibilidad de acceso a internet rápido;Pareja;Diario;3;Humanidades;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+50;Ingeniería en sistemas;3;Salas con acceso a computadores;3;Cercanía a clases o facultad (Pasillos o corredores);En grupo;Varias veces a la semana;3;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+51;Administración de empresas;2;Salón Vacío;2;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;3;Economía y administración;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+52;Enfermeria;2;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+53;Derecho;4;Escaleras;1;Ambiente tranquilo y silencioso;Pareja;Diario;3;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+54;Derecho;3;Áreas verdes;2;Costumbre, hábito personal;Solo(a);2-3 veces por semana;4;Ciencias sociales;Enchufes;Sí, cubículos personales;;Hombre
+55;Ingeniería civil;1;Casa;3;Costumbre, hábito personal;Solo(a);2-3 veces por semana;5;Matemáticas y estadística;Ventilación;Sí, cubículos personales;;Mujer
+56;Optometría;2;Sala de ABP;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+57;Optometría;2;Salón Vacío;2;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+58;Optometría;3;Biblioteca;2;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+59;Optometría;2;Biblioteca;2;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Salud y ciencias médicas;Enchufes;Sí, espacios grupales;;Hombre
+60;Psicología;5;Pasillos o corredores;1;Buena iluminación;Solo(a);Varias veces a la semana;3;Humanidades;Decoración y ambiente;No;;Mujer
+61;Ingeniería civil;1;Salón Vacío;2;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+62;Ingeniería civil;1;Biblioteca;4;Mesas grandes diponibles;En grupo;2-3 veces por semana;3;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Mujer
+63;Ingeniería civil;1;Biblioteca;2;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+64;Ingeniería civil;1;Salón Vacío;1;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Matemáticas y estadística;Ventilación;Sí, espacios grupales;;Mujer
+65;Ingeniería en sistemas;9;Pasillos o corredores;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Ingeniería y tecnología;Enchufes;Sí, cubículos personales;;Mujer
+66;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Costumbre, hábito personal;Solo(a);2-3 veces por semana;3;Ingeniería y tecnología;Ventilación;Sí, cubículos personales;;Hombre
+67;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;Solo(a);2-3 veces por semana;4;Ingeniería y tecnología;Reducción de ruido;No;;Hombre
+68;Ingeniería en sistemas;1;Cafetería;2;Mesas grandes diponibles;Solo(a);Ocasionalmente;3;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+69;Ingeniería en sistemas;1;Salón Vacío;1;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;5;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Hombre
+70;Ingeniería en sistemas;1;Biblioteca;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;4;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+71;Ingeniería en sistemas;1;Salón Vacío;1;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+72;Ingeniería en sistemas;1;Áreas verdes;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;4;Humanidades;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+73;Ingeniería en sistemas;1;Mi casa ;6;Disponibilidad de acceso a internet rápido;Pareja;2-3 veces por semana;5;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Hombre
+74;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+75;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;4;Ingeniería y tecnología;Ventilación;Sí, espacios grupales;;Hombre
+76;Ingeniería en sistemas;1;Salón Vacío;4;Cercanía a clases o facultad (Pasillos o corredores);Solo(a);Una vez a la semana;5;Educación y pedagogía;Sillas y mesas más cómodas;No;;Hombre
+77;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;5;Ingeniería y tecnología;Decoración y ambiente;Sí, espacios grupales;;Hombre
+78;Ingeniería en sistemas;1;Biblioteca;1;Disponibilidad de acceso a internet rápido;Pareja;Ocasionalmente;5;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Mujer
+79;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Disponibilidad de computadores;En grupo;Ocasionalmente;4;Ingeniería y tecnología;Decoración y ambiente;Sí, espacios grupales;;Mujer
+80;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Disponibilidad de computadores;En grupo;2-3 veces por semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+81;Ingeniería en sistemas;1;Salas con acceso a computadores;5;Ambiente tranquilo y silencioso;Pareja;Varias veces a la semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+82;Ingeniería en sistemas;1;Áreas verdes;1;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;4;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+83;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;En grupo;Varias veces a la semana;5;Ingeniería y tecnología;Mejor conexión a internet;No;;Hombre
+84;Ingeniería en sistemas;1;Salas con acceso a computadores;2;Disponibilidad de computadores;En grupo;2-3 veces por semana;4;Ingeniería y tecnología;Mejores teclados;Sí, espacios grupales;;Hombre
+85;Ingeniería en sistemas;1;Salón Vacío;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;4;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+86;Ingeniería en sistemas;1;Cancha de futbol;2;Disponibilidad de computadores;En grupo;2-3 veces por semana;4;Ingeniería y tecnología;Decoración y ambiente;Sí, cubículos personales;;Hombre
+87;Ingeniería en sistemas;1;Donde pueda, no me fijo mucho en el lugar ;1;Cercanía a clases o facultad (Pasillos o corredores);Pareja;2-3 veces por semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+88;Psicología;1;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;Solo(a);Diario;2;Ingeniería y tecnología;Enchufes;Sí, cubículos personales;;Hombre
+89;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Disponibilidad de acceso a internet rápido;En grupo;Ocasionalmente;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+90;Ingeniería en sistemas;1;Salas con acceso a computadores;1;Cercanía a clases o facultad (Pasillos o corredores);En grupo;2-3 veces por semana;4;Ingeniería y tecnología;Reducción de ruido;Sí, espacios grupales;;Mujer
+91;Ingeniería en sistemas;1;Salas con acceso a computadores;4;Disponibilidad de acceso a internet rápido;En grupo;2-3 veces por semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+92;Odontología;2;Salón Vacío;3;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Salud y ciencias médicas;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+93;Odontología;2;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Ventilación;Sí, cubículos personales;;Hombre
+94;Odontología;2;Salón Vacío;3;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Salud y ciencias médicas;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+95;Ingeniería en sistemas;3;Salón Vacío;2;Ambiente tranquilo y silencioso;Pareja;Ocasionalmente;3;Matemáticas y estadística;Ventilación;Sí, cubículos personales;;Hombre
+96;Derecho;4;Salón Vacío;4;Ambiente tranquilo y silencioso;En grupo;Diario;4;Ciencias sociales;Ventilación;Sí, espacios grupales;;Hombre
+97;Ingeniería en sistemas;5;Salón Vacío;2;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+98;Ingeniería en sistemas;3;Salón Vacío;1;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+99;Ingeniería industrial;2;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+100;Administración de empresas;7;Salón Vacío;3;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+101;Ingeniería civil;7;Biblioteca;3;Acceso a libros;En grupo;2-3 veces por semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+102;Medicina;6;Biblioteca;2;Acceso a libros;Solo(a);Varias veces a la semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;No;;Hombre
+103;Odontología;8;Cafetería;1;Acceso a comida y/o microondas;En grupo;Diario;3;Arte y diseño;Reducción de ruido;Sí, espacios grupales;;Mujer
+104;Administración de empresas;4;Escaleras;1;Buena iluminación;Pareja;Varias veces a la semana;3;Ciencias sociales;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+105;Contaduría publica;5;Salón Vacío;2;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+106;Medicina;7;Biblioteca;2;Acceso a libros;Solo(a);2-3 veces por semana;5;Salud y ciencias médicas;Ventilación;Sí, espacios grupales;;Hombre
+107;Psicología;4;Cafetería;2;Buena iluminación;En grupo;Varias veces a la semana;4;Ciencias sociales;Reducción de ruido;Sí, espacios grupales;;Mujer
+108;Gastronomia;3;Salón Vacío;3;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Ciencias naturales y exactas;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+109;Medicina;4;Cafetería;2;Acceso a comida y/o microondas;Solo(a);2-3 veces por semana;3;Salud y ciencias médicas;Reducción de ruido;Sí, cubículos personales;;Hombre
+110;Ingeniería industrial;1;Cafetería;6;Acceso a comida y/o microondas;Solo(a);Diario;4;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+111;Ingeniería en sistemas;4;Salas con acceso a computadores;2;Disponibilidad de computadores;Pareja;Varias veces a la semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+112;Ingeniería civil;4;Biblioteca;3;Ambiente tranquilo y silencioso;Pareja;Diario;4;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+113;Ingeniería industrial;2;Cafetería;2;Mesas grandes diponibles;Solo(a);2-3 veces por semana;4;Ciencias naturales y exactas;Ilumiación;Sí, espacios grupales;;Hombre
+114;Ingeniería en sistemas;3;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Diario;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+115;Medicina;5;Cafetería;1;Acceso a comida y/o microondas;En grupo;Varias veces a la semana;4;Salud y ciencias médicas;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+116;Derecho;2;Salón Vacío;3;Disponibilidad de espacio luego de terminar clases;Solo(a);Ocasionalmente;3;Humanidades;Decoración y ambiente;Sí, cubículos personales;;Hombre
+117;Ingeniería civil;4;Biblioteca;4;Mesas grandes diponibles;En grupo;Diario;5;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Hombre
+118;Gastronomia;1;Sala con acceso a computadoras;2;Disponibilidad de computadores;En grupo;Varias veces a la semana;4;Ciencias naturales y exactas;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+119;Odontología;5;Biblioteca;1;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;4;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+120;Derecho;3;Sala con acceso a computadoras;1;Disponibilidad de computadores;Solo(a);Ocasionalmente;3;Ciencias sociales;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+121;Derecho;3;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;En grupo;Ocasionalmente;3;Humanidades;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+122;Ingeniería civil;4;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;Solo(a);Diario;3;Ingeniería y tecnología;Decoración y ambiente;Sí, espacios grupales;;Mujer
+123;Ingeniería agroindustrial;1;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;En grupo;Varias veces a la semana;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+124;Ingeniería agroindustrial;2;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;En grupo;Varias veces a la semana;2;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+125;Ingeniería agroindustrial;2;Cafetería;1;Mesas grandes diponibles;En grupo;Diario;4;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+126;Ingeniería civil;4;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;Pareja;2-3 veces por semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+127;Ingeniería en sistemas;4;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;Solo(a);2-3 veces por semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+128;Enfermeria;3;Sala de ABP;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+129;Odontología;10;Biblioteca;1;Acceso a libros;Solo(a);2-3 veces por semana;4;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+130;Ingeniería civil;3;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;Pareja;Varias veces a la semana;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+131;Ingeniería en sistemas;2;Sala con acceso a computadoras;2;Disponibilidad de computadores;Pareja;Diario;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+132;Ingeniería industrial;4;Sala con acceso a computadoras;1;Disponibilidad de computadores;Solo(a);2-3 veces por semana;4;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+133;Medicina;4;Biblioteca;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;5;Salud y ciencias médicas;Reducción de ruido;Sí, espacios grupales;;Hombre
+134;Medicina;2;Biblioteca;2;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;5;Salud y ciencias médicas;Decoración y ambiente;Sí, cubículos personales;;Mujer
+135;Medicina;2;Biblioteca;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;3;Salud y ciencias médicas;Reducción de ruido;Sí, espacios grupales;;Hombre
+136;Gastronomia;2;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;Pareja;Diario;3;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+137;Ingeniería civil;1;Salón Vacío;2;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;3;Ingeniería y tecnología;Reducción de ruido;Sí, cubículos personales;;Hombre
+138;Ingeniería industrial;7;Cafetería;1;Acceso a comida y/o microondas;Pareja;Ocasionalmente;4;Matemáticas y estadística;Decoración y ambiente;Sí, espacios grupales;;Hombre
+139;Ingeniería industrial;1;Biblioteca;1;Acceso a libros;Pareja;2-3 veces por semana;3;Matemáticas y estadística;Ventilación;Sí, cubículos personales;;Hombre
+140;Odontología;7;Cafetería;2;Acceso a comida y/o microondas;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+141;Ingeniería en sistemas;5;Salón Vacío;3;Disponibilidad de espacio luego de terminar clases;Pareja;Diario;4;Matemáticas y estadística;Reducción de ruido;No;;Hombre
+142;Ingeniería en sistemas;5;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;Pareja;Varias veces a la semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+143;Ingeniería agroindustrial;5;Cafetería;3;Acceso a comida y/o microondas;En grupo;Varias veces a la semana;5;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+144;Ingeniería agroindustrial;2;Salón Vacío;3;Disponibilidad de espacio luego de terminar clases;Solo(a);Diario;3;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+145;Ingeniería industrial;1;Biblioteca;2;Acceso a libros;En grupo;2-3 veces por semana;4;Matemáticas y estadística;Reducción de ruido;No;;Mujer
+146;Ingeniería industrial;1;Biblioteca;1;Mesas grandes diponibles;En grupo;2-3 veces por semana;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+147;Ingeniería industrial;1;Biblioteca;1;Acceso a libros;En grupo;Ocasionalmente;5;Matemáticas y estadística;Decoración y ambiente;Sí, cubículos personales;;Hombre
+148;Medicina;4;Cafetería;3;Acceso a comida y/o microondas;Pareja;2-3 veces por semana;3;Salud y ciencias médicas;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+149;Derecho;5;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;Solo(a);Varias veces a la semana;3;Ciencias sociales;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+150;Odontología;2;Salón Vacío;1;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;4;Salud y ciencias médicas;Ventilación;No;;Hombre
+151;Ingeniería civil;3;Sala con acceso a computadoras;2;Disponibilidad de computadores;Pareja;2-3 veces por semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+152;Ingeniería agroindustrial;2;Cafetería;1;Acceso a comida y/o microondas;En grupo;Diario;4;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+153;Odontología;5;Biblioteca;1;Acceso a libros;Pareja;Ocasionalmente;3;Salud y ciencias médicas;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+154;Ingeniería civil;1;Áreas verdes;2;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;5;Ingeniería y tecnología;Sillas y mesas más cómodas;No;;Hombre
+155;Ingeniería en sistemas;2;Salas con acceso a computadores;1;Disponibilidad de acceso a internet rápido;Solo(a);Varias veces a la semana;5;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+156;Medicina;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+157;Enfermeria;4;Biblioteca;4;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Hombre
+158;Ingeniería en sistemas;2;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;Solo(a);Ocasionalmente;4;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+159;Ingeniería en sistemas;4;Salón Vacío;2;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+160;Ingeniería civil;7;Salón Vacío;2;Cercanía a clases o facultad (Pasillos o corredores);En grupo;Ocasionalmente;3;Matemáticas y estadística;Mejor conexión a internet;No;;Hombre
+161;Ingeniería en sistemas;2;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;4;Economía y administración;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+162;Contaduría publica;2;Salón Vacío;1;Ambiente tranquilo y silencioso;Pareja;Diario;5;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+163;Ingeniería en sistemas;2;Salón Vacío;5;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Hombre
+164;Ingeniería en sistemas;2;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;Varias veces a la semana;5;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+165;Ingeniería en sistemas;5;Salón Vacío;1;Disponibilidad de espacio luego de terminar clases;Pareja;2-3 veces por semana;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+166;Optometría;1;Biblioteca;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Humanidades;Enchufes;Sí, cubículos personales;;Hombre
+167;Ingeniería civil;1;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+168;Ingeniería en sistemas;2;Biblioteca;5;Ambiente tranquilo y silencioso;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+169;Gastronomia;1;Salas con acceso a computadores;3;Disponibilidad de acceso a internet rápido;Solo(a);Ocasionalmente;3;Matemáticas y estadística;Decoración y ambiente;Sí, espacios grupales;;Mujer
+170;Ingeniería en sistemas;1;Biblioteca;2;Ambiente tranquilo y silencioso;Solo(a);Varias veces a la semana;3;Matemáticas y estadística;Sillas y mesas más cómodas;No;;Hombre
+171;Ingeniería en sistemas;10;Cafetería;1;Mesas grandes diponibles;Pareja;Diario;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+172;Odontología;7;Salas con acceso a computadores;4;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;3;Matemáticas y estadística;Ventilación;Sí, cubículos personales;;Hombre
+173;Medicina;3;Salas con acceso a computadores;1;Ambiente tranquilo y silencioso;En grupo;Diario;5;Salud y ciencias médicas;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+174;Ingeniería civil;1;Salas con acceso a computadores;2;Disponibilidad de computadores;Solo(a);2-3 veces por semana;3;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+175;Ingeniería en sistemas;2;Biblioteca;2;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Humanidades;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+176;Ingeniería industrial;6;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;Diario;3;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+177;Ingeniería civil;6;Sala de ABP;2;Ambiente tranquilo y silencioso;Solo(a);Diario;5;Humanidades;Decoración y ambiente;Sí, cubículos personales;;Mujer
+178;Ingeniería industrial;6;Cafetería;2;Acceso a comida y/o microondas;En grupo;2-3 veces por semana;3;Matemáticas y estadística;Ilumiación;Sí, espacios grupales;;Mujer
+179;Ingeniería en sistemas;2;Biblioteca;4;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Mujer
+180;Medicina;4;Biblioteca;2;Disponibilidad de acceso a internet rápido;Solo(a);Una vez a la semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+181;Ingeniería industrial;2;Biblioteca;2;Acceso a libros;En grupo;2-3 veces por semana;3;Ingeniería y tecnología;Sillas y mesas más cómodas;No;;Mujer
+182;Odontología;2;Biblioteca;1;Ambiente tranquilo y silencioso;En grupo;Ocasionalmente;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+183;Ingeniería en sistemas;1;Biblioteca;2;Ambiente tranquilo y silencioso;Pareja;Varias veces a la semana;4;Matemáticas y estadística;Enchufes;Sí, espacios grupales;;Mujer
+184;Ingeniería en sistemas;3;Sala de ABP;2;Ambiente tranquilo y silencioso;Solo(a);Diario;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, cubículos personales;;Mujer
+185;Derecho;4;Salón Vacío;3;Ambiente tranquilo y silencioso;Solo(a);2-3 veces por semana;4;Ingeniería y tecnología;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+186;Ingeniería en sistemas;7;Cancha de futbol;2;Disponibilidad de computadores;Solo(a);2-3 veces por semana;3;Ingeniería y tecnología;Ventilación;Sí, cubículos personales;;Mujer
+187;Ingeniería civil;7;Mi casa ;1;Disponibilidad de acceso a internet rápido;Pareja;2-3 veces por semana;5;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+188;Ingeniería en sistemas;2;Salón Vacío;2;Disponibilidad de espacio luego de terminar clases;En grupo;Varias veces a la semana;3;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+189;Gastronomia;1;Salas con acceso a computadores;2;Disponibilidad de acceso a internet rápido;Pareja;2-3 veces por semana;5;Matemáticas y estadística;Mejor conexión a internet;Sí, cubículos personales;;Hombre
+190;Ingeniería en sistemas;4;Cafetería;2;Mesas grandes diponibles;En grupo;Ocasionalmente;5;Salud y ciencias médicas;Reducción de ruido;Sí, espacios grupales;;Mujer
+191;Ingeniería en sistemas;2;Áreas verdes;3;Ambiente tranquilo y silencioso;Solo(a);Diario;3;Matemáticas y estadística;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
+192;Medicina;5;Cafetería;1;Acceso a comida y/o microondas;Solo(a);Ocasionalmente;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+193;Odontología;2;Biblioteca;1;Mesas grandes diponibles;Pareja;2-3 veces por semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+194;Odontología;4;Salón Vacío;1;Ambiente tranquilo y silencioso;En grupo;2-3 veces por semana;5;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Hombre
+195;Ingeniería en sistemas;2;Salas con acceso a computadores;2;Disponibilidad de computadores;Solo(a);Varias veces a la semana;4;Salud y ciencias médicas;Ventilación;Sí, espacios grupales;;Hombre
+196;Biología marina;3;Biblioteca;2;Mesas grandes diponibles;Solo(a);Ocasionalmente;3;Salud y ciencias médicas;Sillas y mesas más cómodas;Sí, cubículos personales;;Mujer
+197;Ingeniería en sistemas;6;Cafetería;2;Acceso a comida y/o microondas;Pareja;Varias veces a la semana;4;Economía y administración;Reducción de ruido;Sí, espacios grupales;;Mujer
+198;Ingeniería en sistemas;1;Salón Vacío;6;Ambiente tranquilo y silencioso;En grupo;Varias veces a la semana;4;Matemáticas y estadística;Mejor conexión a internet;Sí, espacios grupales;;Hombre
+199;Optometría;1;Biblioteca;1;Ambiente tranquilo y silencioso;Pareja;2-3 veces por semana;5;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Hombre
+200;Ingeniería en sistemas;4;Salón Vacío;5;Disponibilidad de espacio luego de terminar clases;Pareja;Ocasionalmente;2;Ingeniería y tecnología;Sillas y mesas más cómodas;Sí, espacios grupales;;Mujer
