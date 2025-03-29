@@ -2,4 +2,3 @@ pandas
 dash
 dash-bootstrap-components
 plotly
-os
