@@ -3,6 +3,16 @@ import dash
 from dash import dcc, html, Input, Output, State, dash_table
 import dash_bootstrap_components as dbc
 import plotly.express as px
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return '¡Hola, mundo!'
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8050)
 
 #Cargar los datos a trabajar
 df = pd.read_csv("datos.csv", delimiter=";")
