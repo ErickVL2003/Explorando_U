@@ -226,6 +226,8 @@ def update_graphs(selected_carrera, selected_lugares, horas_range, selected_graf
                       title="Boxplot de Horas de Estudio",
                       template="plotly_white")
         graphs.append(dcc.Graph(figure=fig2, id="graph2"))
+        fig2.update_traces(marker=dict(color="#FFD700"),  # Color de los outliers
+                   line=dict(color="#FFD700"))
 #Grafica 3 es de barras y nos permite ver el promedio de horas que se estudian en cada lugar, los filtros de carrera
 #permiten ver los promedios de horas que estas carreras estudian en los diferentes lugares.
     if "graf3" in selected_grafs:
